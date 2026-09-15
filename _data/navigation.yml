@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About"
-    url: https://ahutton0.github.io/ahutton0.github.io/about/  
+    url: https://ahutton0.github.io/docs/about/  
   - title: "Education Projects"
-    url: https://ahutton0.github.io/ahutton0.github.io/education-projects/
+    url: https://ahutton0.github.io/docs/education-projects/
   - title: "Professional Projects"
-    url: https://ahutton0.github.io/ahutton0.github.io/professional-projects/
+    url: https://ahutton0.github.io/docs/professional-projects/
   - title: "Personal Projects"
-    url: https://ahutton0.github.io/ahutton0.github.io/personal-projects/
+    url: https://ahutton0.github.io/docs/personal-projects/
