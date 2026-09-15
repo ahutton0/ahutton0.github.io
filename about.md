@@ -1,9 +1,8 @@
 ---
 title: Professional Profile
 permalink: /about/
+image: https://media.licdn.com/dms/image/v2/D4E03AQF2Tu-A6UnDow/profile-displayphoto-shrink_800_800/B4EZSpDoyDG0Ag-/0/1738003091664?e=1790812800&v=beta&t=wzUD20NveqsF0u2uk6QQmUu7ZE8lVtG8-_2b_9MXLHA
 --- 
-
-Alysa Hutton
 
 
 # Profile
