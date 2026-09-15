@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About"
+    url: /about/  
+  - title: "Education Projects"
+    url: /education-projects/
+  - title: "Professional Projects"
+    url: /professional-projects/
+  - title: "Personal Projects"
+    url: /personal-projects/
