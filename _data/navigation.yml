@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About"
-    url: /about/  
+    url: https://ahutton0.github.io/ahutton0/docs/about/  
   - title: "Education Projects"
-    url: /education-projects/
+    url: https://ahutton0.github.io/ahutton0/docs/education-projects/
   - title: "Professional Projects"
-    url: /professional-projects/
+    url: https://ahutton0.github.io/ahutton0/docs/professional-projects/
   - title: "Personal Projects"
-    url: /personal-projects/
+    url: https://ahutton0.github.io/ahutton0/docs/personal-projects/
