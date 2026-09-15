@@ -1,7 +1,6 @@
 ---
-layout: home
-author_profile: true
 title: Professional Profile
+permalink: /docs/about/
 --- 
 
 Alysa Hutton
