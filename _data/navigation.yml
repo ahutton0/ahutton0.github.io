@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: https://ahutton0.github.io/
   - title: "About"
     url: https://ahutton0.github.io/about/  
   - title: "Education Projects"
