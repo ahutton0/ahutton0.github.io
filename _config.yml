@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Alysa Hutton"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Results-driven Mechanical Engineer with a strong foundation in design, testing, and systems integration within the federal aviation sector. Demonstrated success collaborating with multidisciplinary engineering teams to analyze network connectivity, develop detailed test documentation, and support modernization initiatives."
-  location         : "NJ"
+  avatar           : "/Users/a/Downloads/PFP.jpeg"
+  bio              : "Results-driven Mechanical Engineer with a strong foundation in design, testing, and systems integration within the federal aviation sector."
+  location         : "Burlington, NJ"
   email            : "alysahutton0@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
