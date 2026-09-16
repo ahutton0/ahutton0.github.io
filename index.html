@@ -1,6 +1,8 @@
 ---
 title: "WIP"
 layout: splash
+permalink: /splash-page/
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,33 +12,42 @@ intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Professional Projects"
-    excerpt: 'Click the button below to explore the projects I've completed in a professional setting.'
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
-    btn_label: "Professional"
+    btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Educational Projects"
-    excerpt: 'Click the button below to explore the projects I've completed as part of my undergraduate curriculum.'
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
-    btn_label: "Education"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Personal Projects"
-    excerpt: 'Click the button below to explore the projects I've completed on my own.'
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
-    btn_label: "Personal"
+    btn_label: "Read More"
     btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="center" %}
+{% include feature_row %}
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" type="right" %}
