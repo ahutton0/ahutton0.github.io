@@ -129,7 +129,7 @@ author:
       # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/alysa-hutton"
 
 # Site Footer
 footer:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url:
+      url: "https://www.linkedin.com/in/alysa-hutton"
   since: "2026"
 
 
