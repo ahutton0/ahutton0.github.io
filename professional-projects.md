@@ -1,12 +1,6 @@
 ---
 title: "Professional Projects"
 permalink: /professional-projects/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-intro: 
-  - excerpt: 'Engineering projects done in a professional capacity for internships and permanent positions.'
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
@@ -26,6 +20,10 @@ gallery:
     title: "Image 4 title caption"
 
 ---
+
+# **Professional Projects**
+
+Engineering projects done in a professional capacity for internships and permanent positions.
 
 {% include gallery caption="This gallery is currently empty. WIP" %}
 
