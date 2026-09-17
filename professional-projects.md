@@ -1,5 +1,10 @@
 ---
 title: "Professional Projects"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
 permalink: /professional-projects/
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
@@ -20,8 +25,6 @@ gallery:
     title: "Image 4 title caption"
 
 ---
-
-# **Professional Projects**
 
 Engineering projects done in a professional capacity for internships and permanent positions.
 
