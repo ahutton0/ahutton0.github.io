@@ -5,8 +5,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-intro: 
-  - excerpt: 'This site serves as an engineering project portfolio.'
 permalink: /education-projects/
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
