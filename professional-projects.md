@@ -1,7 +1,7 @@
 ---
 title: "Professional Projects"
 permalink: /professional-projects/
-exerpt: 'Engineering projects done in a professional capacity for a full time position.'
+exerpt: 'Engineering projects done in a professional capacity for internships and permanent positions.'
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
@@ -54,13 +54,7 @@ gallery:
 
 ---
 
-Engineering projects done in a professional capacity for a full time position.
-
-```liquid
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
-```
-
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is gallery is currently empty. WIP" %}
 
 This is some text after the gallery just to make sure that everything aligns properly.
 
