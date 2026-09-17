@@ -1,5 +1,12 @@
 ---
 title: "Personal Projects"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+intro: 
+  - excerpt: 'Engineering projects done out of personal interest.'
 permalink: /personal-projects/
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
@@ -20,10 +27,6 @@ gallery:
     title: "Image 4 title caption"
 
 ---
-
-# **Personal Projects**
-
-Engineering projects done out of personal interest.
 
 {% include gallery caption="This gallery is currently empty. WIP" %}
 
