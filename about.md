@@ -25,6 +25,8 @@ to bring analytical insight, design precision, and hands-on technical experience
 
 {% include feature_row id="feature_row" type="center" %}
 
+{% include feature_row id="image_path" class="u-photo" %}
+
 {% include feature_row id="title" type="center" %}
 
 {% include feature_row id="excerpt" type="center" %}
