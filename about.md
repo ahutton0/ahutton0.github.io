@@ -12,6 +12,10 @@ feature_row:
 
 ---
 
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
 # **Professional Profile**
 
 Alysa Hutton is a results-driven Mechanical Engineer with a strong foundation in design, testing, and systems integration within the federal aviation sector.
@@ -19,7 +23,3 @@ Demonstrated success collaborating with multidisciplinary engineering teams to a
 support modernization initiatives. Proficient in CAD modeling, technical documentation, and systems evaluation. Recognized for applying
 innovative approaches to complex engineering challenges and contributing to the operational efficiency of national airspace systems. Eager
 to bring analytical insight, design precision, and hands-on technical experience to a dynamic engineering team.
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
