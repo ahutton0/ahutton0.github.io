@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
 permalink: /about/
 feature_row:
-  - image_path: /_assets/images/IMG_1840.jpg
+  - image_path: ahutton0.github.io/_assets/images/IMG_1840.jpg
 
 ---
 
