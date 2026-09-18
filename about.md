@@ -6,8 +6,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 permalink: /about/
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: ahutton0/ahutton0.github.io/_assets/images/IMG_1840.jpg
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
 
