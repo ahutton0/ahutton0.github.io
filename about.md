@@ -9,8 +9,8 @@ permalink: /about/
 intro: 
   - excerpt: 'Read about the Mechanical Engineer below!'
 feature_row:
-  - image_path: _assets/images/IMG_1840.jpg
-    alt: "placeholder image 1"
+  - image_path: main/_assets/images/IMG_1840.jpg
+    alt: "image of Alysa"
     title: "Professional Profile"
     excerpt: "Alysa Hutton is a results-driven Mechanical Engineer with a strong foundation in design, testing, and systems integration within the federal aviation sector.
 Demonstrated success collaborating with multidisciplinary engineering teams to analyze data flows, develop efficient test processes, and
