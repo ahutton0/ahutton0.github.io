@@ -9,7 +9,11 @@ permalink: /about/
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 # **Professional Profile**
