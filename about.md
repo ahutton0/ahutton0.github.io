@@ -9,11 +9,6 @@ permalink: /about/
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
 
 ---
 
@@ -24,3 +19,7 @@ Demonstrated success collaborating with multidisciplinary engineering teams to a
 support modernization initiatives. Proficient in CAD modeling, technical documentation, and systems evaluation. Recognized for applying
 innovative approaches to complex engineering challenges and contributing to the operational efficiency of national airspace systems. Eager
 to bring analytical insight, design precision, and hands-on technical experience to a dynamic engineering team.
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
