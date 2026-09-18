@@ -18,6 +18,7 @@ support modernization initiatives. Proficient in CAD modeling, technical documen
 innovative approaches to complex engineering challenges and contributing to the operational efficiency of national airspace systems. Eager
 to bring analytical insight, design precision, and hands-on technical experience to a dynamic engineering team.
 "
+author_profile: true
 
 ---
 
