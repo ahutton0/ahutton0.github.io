@@ -7,8 +7,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
 permalink: /about/
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - image_path: _assets/images/IMG_1840.jpg
 
 ---
 
